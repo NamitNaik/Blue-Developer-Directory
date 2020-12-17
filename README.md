@@ -1,5 +1,5 @@
 # Blue-Developer-Directory
-This Repository Is A Part Of An Assignment Of Student Development Program To Create A Single Web-Page Using Just HTML & CSS. 
+This repository is a part of an assignment of Student Development Program to create a single web-page using just HTML & CSS
 ## Link to Web-Page:
 https://namitnaik.github.io/Blue-Developer-Directory/
 
